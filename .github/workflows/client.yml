@@ -33,3 +33,5 @@ jobs:
             build s3://fe-100-yejin32-s3 \
             --delete
         working-directory: ./my-agora-states-client
+
+  # secret 수정
